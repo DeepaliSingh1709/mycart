@@ -1,0 +1,114 @@
+{
+    "items":[
+        {
+            "id":"1ghee",
+            "title":"Milkfood",
+            "name":"Milkfood Rich Desai Danedar Ghee ",
+            "quantity":"1 L",
+            "mrp":"498",
+            "price":"408",
+            "discount":"18",
+            "imagesrc":"/assets/Milk-Food-Rich-Danedar-Desi-Ghee.jpg",
+            "count":0
+        },
+        {
+            "id":"2ghee",
+            "title":"Grofer Mother's Choice",
+            "name":"Grofer Mother's Choice Desi Ghee ",
+            "quantity":"1 L",
+            "mrp":"450",
+            "price":"414",
+            "discount":"8",
+            "imagesrc":"/assets/Mother's choice.jpg",
+            "count":0
+        },
+        {
+            "id":"3ghee",
+            "title":"Amul",
+            "name":"Amul Pure Ghee ",
+            "quantity":"1 L",
+            "mrp":"480",
+            "price":"480",
+            "discount":null,
+            "imagesrc":"/assets/amulghee.jpg",
+            "count":0
+        },
+        {
+            "id":"4ghee",
+            "title":"Patanjali",
+            "name":"Patanjali Cows Ghee ",
+            "quantity":"500 ml",
+            "mrp":"360",
+            "price":"350",
+            "discount":"2",
+            "imagesrc":"/assets/patanjali-cows-ghee.jpg",
+            "count":0
+        },
+        {
+            "id":"5ghee",
+            "title":"Mother Dairy",
+            "name":"Mother Dairy Ghee",
+            "quantity":"1 L",
+            "mrp":"550",
+            "price":"550",
+            "discount":null,
+            "imagesrc":"/assets/mother-dairy.jpg",
+            "count":0
+        },
+        {
+            "id":"6ghee",
+            "title":"Anik",
+            "name":"Anik Desi Ghee",
+            "quantity":"500 L",
+            "mrp":"285",
+            "price":"280",
+            "discount":"1",
+            "imagesrc":"/assets/desi-tin-anik-original.jpg",
+            "count":0
+        },
+        {
+            "id":"7ghee",
+            "title":"Nestle",
+            "name":"Nestle Everyday Shahi Ghee",
+            "quantity":"1 L",
+            "mrp":"500",
+            "price":"449",
+            "discount":10,
+            "imagesrc":"/assets/Nestle.jpg",
+            "count":0
+        },
+        {
+            "id":"8ghee",
+            "title":"Ashtavinayak",
+            "name":"Ashtavinayak Premium Desi Ghee",
+            "quantity":"2 L",
+            "mrp":"1100",
+            "price":"1049",
+            "discount":"4",
+            "imagesrc":"/assets/AshtavinayakDesiGhee.jpg",
+            "count":0
+        },
+        {
+            "id":"9ghee",
+            "title":"Madhusudan",
+            "name":"Madhusudan Desi Ghee",
+            "quantity":"1 L",
+            "mrp":"525",
+            "price":"485",
+            "discount":"7",
+            "imagesrc":"/assets/madhusudan-original.jpg",
+            "count":0
+        }, {
+            "id":"10ghee",
+            "title":"Aashirvaad Svasti",
+            "name":"Aashirvaad Svasti Pure Cow Ghee",
+            "quantity":"1 L",
+            "mrp":"575",
+            "price":"511",
+            "discount":"11",
+            "imagesrc":"/assets/aashirvaad-original.jpg",
+            "count":0
+        }
+
+    ]
+}
